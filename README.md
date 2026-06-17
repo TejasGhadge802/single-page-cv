@@ -27,7 +27,7 @@ single-page-cv/
 - Experience / Career History
 - Contact Information
 
-## Live Demo
+## Project URL & Live Demo
 
 View the project here:
 
