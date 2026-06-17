@@ -31,7 +31,7 @@ single-page-cv/
 
 View the project here:
 
-"Live Demo" (https://your-live-demo-link.com)
+"Live Demo" (https://tejasghadge802.github.io/single-page-cv/)
 
 ## Getting Started
 
