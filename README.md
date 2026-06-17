@@ -27,11 +27,14 @@ single-page-cv/
 - Experience / Career History
 - Contact Information
 
-## Project URL & Live Demo
+## Live Demo
 
 View the project here:
 
 "Live Demo" (https://tejasghadge802.github.io/single-page-cv/)
+
+## Project URL
+https://roadmap.sh/projects/single-page-cv
 
 ## Getting Started
 
